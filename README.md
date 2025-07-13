@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<img src="[https://img.shields.io/badge/Java-8%2B-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/Java-8%252B-blue.svg)" alt="Java 8+"/>
-<img src="[https://img.shields.io/badge/Nền](https://www.google.com/search?q=https://img.shields.io/badge/N%E1%BB%81n) tảng-SPMF-orange.svg" alt="SPMF Framework"/>
-<img src="[https://img.shields.io/badge/Giao](https://www.google.com/search?q=https://img.shields.io/badge/Giao) diện-CLI-green.svg" alt="CLI Interface"/>
+<img src="https://img.shields.io/badge/Java-1.8%2B-blue.svg" />
+  <img src="https://img.shields.io/badge/SPMF-Pattern%20Mining-orange.svg" />
+  <img src="https://img.shields.io/badge/CLI-Assistant-green.svg" />
 </p>
 
 -----
